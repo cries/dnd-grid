@@ -1,4 +1,4 @@
-const Utils = require('../utils.js')
+const Utils = require('./utils.js')
 const Container = require('./Container.vue')
 const Box = require('./Box.vue')
 
